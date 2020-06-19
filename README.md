@@ -1,0 +1,1 @@
+# Wap-to-print-10-natural-number-by-using-while-loop
